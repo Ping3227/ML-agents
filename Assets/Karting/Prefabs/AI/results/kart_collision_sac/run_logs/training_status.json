@@ -1,0 +1,65 @@
+{
+    "ArcadeDriver": {
+        "checkpoints": [
+            {
+                "steps": 8499356,
+                "file_path": "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-8499356.onnx",
+                "reward": null,
+                "creation_time": 1701631735.7256684,
+                "auxillary_file_paths": [
+                    "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-8499356.pt"
+                ]
+            },
+            {
+                "steps": 8999689,
+                "file_path": "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-8999689.onnx",
+                "reward": null,
+                "creation_time": 1701632940.5725002,
+                "auxillary_file_paths": [
+                    "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-8999689.pt"
+                ]
+            },
+            {
+                "steps": 9499506,
+                "file_path": "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-9499506.onnx",
+                "reward": null,
+                "creation_time": 1701634148.8864973,
+                "auxillary_file_paths": [
+                    "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-9499506.pt"
+                ]
+            },
+            {
+                "steps": 9999689,
+                "file_path": "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-9999689.onnx",
+                "reward": null,
+                "creation_time": 1701635353.7676787,
+                "auxillary_file_paths": [
+                    "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-9999689.pt"
+                ]
+            },
+            {
+                "steps": 10000704,
+                "file_path": "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-10000704.onnx",
+                "reward": 47.14960397283236,
+                "creation_time": 1701635353.861708,
+                "auxillary_file_paths": [
+                    "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-10000704.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000704,
+            "file_path": "results\\kart_collision_sac\\ArcadeDriver.onnx",
+            "reward": 47.14960397283236,
+            "creation_time": 1701635353.861708,
+            "auxillary_file_paths": [
+                "results\\kart_collision_sac\\ArcadeDriver\\ArcadeDriver-10000704.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.0+cpu"
+    }
+}

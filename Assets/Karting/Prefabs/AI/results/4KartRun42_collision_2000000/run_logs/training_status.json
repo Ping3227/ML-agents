@@ -1,0 +1,65 @@
+{
+    "ArcadeDriver": {
+        "checkpoints": [
+            {
+                "steps": 499550,
+                "file_path": "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-499550.onnx",
+                "reward": 6.811401431608682,
+                "creation_time": 1700185265.3813066,
+                "auxillary_file_paths": [
+                    "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-499550.pt"
+                ]
+            },
+            {
+                "steps": 999556,
+                "file_path": "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-999556.onnx",
+                "reward": -2.4741904934247336,
+                "creation_time": 1700185790.7183764,
+                "auxillary_file_paths": [
+                    "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-999556.pt"
+                ]
+            },
+            {
+                "steps": 1499625,
+                "file_path": "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-1499625.onnx",
+                "reward": 8.211152060992188,
+                "creation_time": 1700186332.5527506,
+                "auxillary_file_paths": [
+                    "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-1499625.pt"
+                ]
+            },
+            {
+                "steps": 1999228,
+                "file_path": "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-1999228.onnx",
+                "reward": 3.3023233953997386,
+                "creation_time": 1700186849.555392,
+                "auxillary_file_paths": [
+                    "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-1999228.pt"
+                ]
+            },
+            {
+                "steps": 2000615,
+                "file_path": "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-2000615.onnx",
+                "reward": 4.315943663001906,
+                "creation_time": 1700186849.6373188,
+                "auxillary_file_paths": [
+                    "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-2000615.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000615,
+            "file_path": "results\\4KartRun42_collision_2000000\\ArcadeDriver.onnx",
+            "reward": 4.315943663001906,
+            "creation_time": 1700186849.6373188,
+            "auxillary_file_paths": [
+                "results\\4KartRun42_collision_2000000\\ArcadeDriver\\ArcadeDriver-2000615.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.0+cpu"
+    }
+}

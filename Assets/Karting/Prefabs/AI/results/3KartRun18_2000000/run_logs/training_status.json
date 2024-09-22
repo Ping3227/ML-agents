@@ -1,0 +1,65 @@
+{
+    "ArcadeDriver": {
+        "checkpoints": [
+            {
+                "steps": 499867,
+                "file_path": "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-499867.onnx",
+                "reward": 23.517459133885943,
+                "creation_time": 1700120047.1601622,
+                "auxillary_file_paths": [
+                    "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-499867.pt"
+                ]
+            },
+            {
+                "steps": 999674,
+                "file_path": "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-999674.onnx",
+                "reward": 24.867748126616846,
+                "creation_time": 1700120678.884667,
+                "auxillary_file_paths": [
+                    "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-999674.pt"
+                ]
+            },
+            {
+                "steps": 1499997,
+                "file_path": "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-1499997.onnx",
+                "reward": 49.227358603051734,
+                "creation_time": 1700121287.5021448,
+                "auxillary_file_paths": [
+                    "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-1499997.pt"
+                ]
+            },
+            {
+                "steps": 1999851,
+                "file_path": "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-1999851.onnx",
+                "reward": 80.05722189890712,
+                "creation_time": 1700121897.3741565,
+                "auxillary_file_paths": [
+                    "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-1999851.pt"
+                ]
+            },
+            {
+                "steps": 2000851,
+                "file_path": "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-2000851.onnx",
+                "reward": 90.54972060620784,
+                "creation_time": 1700121897.4473233,
+                "auxillary_file_paths": [
+                    "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-2000851.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000851,
+            "file_path": "results\\3KartRun18_2000000\\ArcadeDriver.onnx",
+            "reward": 90.54972060620784,
+            "creation_time": 1700121897.4473233,
+            "auxillary_file_paths": [
+                "results\\3KartRun18_2000000\\ArcadeDriver\\ArcadeDriver-2000851.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.0+cpu"
+    }
+}

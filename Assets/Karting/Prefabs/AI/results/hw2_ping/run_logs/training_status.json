@@ -1,0 +1,65 @@
+{
+    "ArcadeDriver": {
+        "checkpoints": [
+            {
+                "steps": 8499000,
+                "file_path": "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-8499000.onnx",
+                "reward": 378.7471008300781,
+                "creation_time": 1702332708.7362828,
+                "auxillary_file_paths": [
+                    "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-8499000.pt"
+                ]
+            },
+            {
+                "steps": 8999000,
+                "file_path": "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-8999000.onnx",
+                "reward": 376.2377247529871,
+                "creation_time": 1702333384.3208885,
+                "auxillary_file_paths": [
+                    "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-8999000.pt"
+                ]
+            },
+            {
+                "steps": 9499000,
+                "file_path": "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-9499000.onnx",
+                "reward": 369.5110614483173,
+                "creation_time": 1702334073.2913842,
+                "auxillary_file_paths": [
+                    "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-9499000.pt"
+                ]
+            },
+            {
+                "steps": 9999000,
+                "file_path": "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-9999000.onnx",
+                "reward": 375.9776611328125,
+                "creation_time": 1702334761.9733486,
+                "auxillary_file_paths": [
+                    "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-9999000.pt"
+                ]
+            },
+            {
+                "steps": 10008000,
+                "file_path": "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-10008000.onnx",
+                "reward": 369.1263173421224,
+                "creation_time": 1702334762.276669,
+                "auxillary_file_paths": [
+                    "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-10008000.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10008000,
+            "file_path": "results\\hw2_ping\\ArcadeDriver.onnx",
+            "reward": 369.1263173421224,
+            "creation_time": 1702334762.276669,
+            "auxillary_file_paths": [
+                "results\\hw2_ping\\ArcadeDriver\\ArcadeDriver-10008000.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.0+cpu"
+    }
+}

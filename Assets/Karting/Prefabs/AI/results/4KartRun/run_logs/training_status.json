@@ -1,0 +1,38 @@
+{
+    "ArcadeDriver": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results\\4KartRun\\ArcadeDriver\\ArcadeDriver-499999.onnx",
+                "reward": 1.8647617900371551,
+                "creation_time": 1699929697.5418916,
+                "auxillary_file_paths": [
+                    "results\\4KartRun\\ArcadeDriver\\ArcadeDriver-499999.pt"
+                ]
+            },
+            {
+                "steps": 500002,
+                "file_path": "results\\4KartRun\\ArcadeDriver\\ArcadeDriver-500002.onnx",
+                "reward": 1.846693893426035,
+                "creation_time": 1699929697.5850782,
+                "auxillary_file_paths": [
+                    "results\\4KartRun\\ArcadeDriver\\ArcadeDriver-500002.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500002,
+            "file_path": "results\\4KartRun\\ArcadeDriver.onnx",
+            "reward": 1.846693893426035,
+            "creation_time": 1699929697.5850782,
+            "auxillary_file_paths": [
+                "results\\4KartRun\\ArcadeDriver\\ArcadeDriver-500002.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.0+cpu"
+    }
+}
